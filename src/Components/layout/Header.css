@@ -1,0 +1,27 @@
+.Heading
+{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  height: 200px;
+  box-sizing: border-box;
+  border: 1px solid #aaa;
+  background-color: gray;
+  font-weight:bold;
+  font-size: 1.2em;
+  display: block;
+   
+}
+.Heading h1{
+    padding: 40px;
+    font-size: 100px;
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    color: beige;
+  }
+  

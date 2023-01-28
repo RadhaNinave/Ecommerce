@@ -1,0 +1,28 @@
+.container{
+    text-align: center;
+}
+.Card
+{
+    width: 18rem;
+    align-items: center;
+    margin-right: 30px;   /* Horizontal Space */
+   margin-bottom: 30px;
+}
+
+.img
+{
+    width: 9rem;
+}
+.img_style
+{
+    position: relative;
+}
+.button
+{
+    align-items: center;
+    color: grey;
+}
+.col
+{
+    position: inherit;
+}
